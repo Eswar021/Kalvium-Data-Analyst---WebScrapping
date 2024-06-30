@@ -65,4 +65,20 @@ To start analyzing election data:
 2. Install necessary dependencies (`pip install pandas matplotlib seaborn bs4 requests`).
 3. Run Jupyter Notebooks( Insights_&_Webscraping.ipynb ) to explore and visualize data.
 
+## Charts that are generated
+
+![Screenshot 2024-07-01 050015](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/52a06981-112a-47ce-a57e-a4eadc430122)
+![Screenshot 2024-07-01 050009](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/f17bb73f-8c09-468a-8eb7-0ff2ae2a1335)
+![Screenshot 2024-07-01 050000](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/b98d54b2-603e-4f58-80f9-d3bd73bc3137)
+![Screenshot 2024-07-01 045954](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/6b26526a-ac69-4379-b7c3-0851fb44c437)
+![Screenshot 2024-07-01 045947](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/e31b2c41-7807-4d72-8e0f-5ddb81ac8281)
+![Screenshot 2024-07-01 045939](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/a8ef0abe-10e3-4d43-add1-01811688f342)
+![Screenshot 2024-07-01 045931](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/9877656c-7701-4f64-bfd2-89004f6b5c71)
+![Screenshot 2024-07-01 045923](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/db76a7be-f129-4805-abad-940d7ccec57b)
+![Screenshot 2024-07-01 045912](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/d464f302-1c20-47c3-b264-5c34e5f0dc11)
+![Screenshot 2024-07-01 045905](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/5c2481f3-319d-49f6-8b16-a568275efd35)
+![Screenshot 2024-07-01 045858](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/20d7bea9-aebf-4424-9883-7ca3eb8e2d03)
+![Screenshot 2024-07-01 045851](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/3360fd4d-203b-4fb4-bfa1-660ae5b5a8a7)
+![Screenshot 2024-07-01 045843](https://github.com/Eswar021/Kalvium-Data-Analyst---WebScrapping/assets/118106134/5991efc8-9631-44b4-ab36-32c988e3b3c1)
+
 
