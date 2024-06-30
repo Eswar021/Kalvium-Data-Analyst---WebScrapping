@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves analyzing election data retrieved from the Election Commission of India's website. Using Python, we extracted, cleaned, and structured data from various types of elections including general elections to assembly constituencies, bye-elections, and parliamentary elections across different states.
+This project involves analyzing election data retrieved from the Election Commission of India's website. Using Python, I extracted, cleaned, and structured data from various types of elections including general elections to assembly constituencies, bye-elections, and parliamentary elections across different states.
 
 ### Objectives
 
@@ -29,7 +29,7 @@ The main objectives of this project are:
 12. **Leading Candidate Analysis by Party in General Elections**
 13. **Party-wise Seats Won Analysis**
 
-Each insight provides detailed analysis and visual representations of election data, showcasing patterns and outcomes across different elections and parties.
+Each insight provides detailed analysis and visual representations of election data, showcasing patterns, and outcomes across different elections and parties.
 
 
 ## Features
